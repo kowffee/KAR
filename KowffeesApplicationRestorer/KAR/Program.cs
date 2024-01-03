@@ -8,7 +8,7 @@ namespace KAR
         static async Task Main(string[] args)
         {
             Print("Getting ready", Yellow);
-            bool setup = await Handlers.InitSetup();
+            bool setup = Handlers.InitSetup();
             if (!setup)
             {
                 Print("Setup has failed", DarkRed);
