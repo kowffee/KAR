@@ -13,7 +13,11 @@
                     ("https://laptop-updates.brave.com/latest/winx64/nightly?bitness=64", "BraveNightlyInstaller64bit.exe"),
                     ("https://openrgb.org/releases/release_0.9/OpenRGB_0.9_Windows_64_b5f46e3.zip", "OpenRGB.zip"),
                     ("https://github.com/Vencord/Vesktop/releases/download/v0.4.4/Vesktop-Setup-0.4.4.exe", "VesktopV0.4.4Setup.exe"),
-                    ("https://central.github.com/deployments/desktop/desktop/latest/win32", "GithubInstaller.exe")
+                    ("https://central.github.com/deployments/desktop/desktop/latest/win32", "GithubInstaller.exe"),
+                    ("https://github.com/hellzerg/optimizer/releases/download/16.4/Optimizer-16.4.exe", "Optimizer.exe"),
+                    ("https://github.com/pizzaboxer/bloxstrap/releases/download/v2.5.4/Bloxstrap-v2.5.4.exe", "BloxstrapV2.5.4.exe.exe"),
+                    ("https://github.com/builtbybel/Bloatynosy/releases/download/1.4.0/BloatynosyApp.zip", "Bloatynosy.zip"),
+                    ("https://www.bleachbit.org/download/file/t?file=BleachBit-4.6.0-setup.exe", "BleachbitSetup.exe")
                 ];
 
                 return true;
