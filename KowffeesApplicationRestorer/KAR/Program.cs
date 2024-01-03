@@ -16,6 +16,8 @@ namespace KAR
                 Console.ReadLine();
                 Environment.Exit(0);
             }
+
+            // Might improve this but not rlly needed rn
             await DownloadFile("https://github.com/brave/brave-browser/releases/latest/download/BraveBrowserSetup.exe", "BraveInstaller64bit.exe");
             await DownloadFile("https://laptop-updates.brave.com/latest/winx64/beta?bitness=64", "BraveBetaInstaller64bit.exe");
             await DownloadFile("https://laptop-updates.brave.com/latest/winx64/nightly?bitness=64", "BraveNightlyInstaller64bit.exe");
