@@ -2,7 +2,7 @@
 {
     internal static class Handlers
     {
-        internal static async Task<bool> InitSetup()
+        internal static Task<bool> InitSetup()
         {
             try
             {
