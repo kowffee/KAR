@@ -15,9 +15,13 @@
                     ("https://github.com/Vencord/Vesktop/releases/download/v0.4.4/Vesktop-Setup-0.4.4.exe", "VesktopV0.4.4Setup.exe"),
                     ("https://central.github.com/deployments/desktop/desktop/latest/win32", "GithubInstaller.exe"),
                     ("https://github.com/hellzerg/optimizer/releases/download/16.4/Optimizer-16.4.exe", "Optimizer.exe"),
-                    ("https://github.com/pizzaboxer/bloxstrap/releases/download/v2.5.4/Bloxstrap-v2.5.4.exe", "BloxstrapV2.5.4.exe.exe"),
+                    ("https://github.com/pizzaboxer/bloxstrap/releases/download/v2.5.4/Bloxstrap-v2.5.4.exe", "BloxstrapV2.5.4.exe"),
                     ("https://github.com/builtbybel/Bloatynosy/releases/download/1.4.0/BloatynosyApp.zip", "Bloatynosy.zip"),
-                    ("https://www.bleachbit.org/download/file/t?file=BleachBit-4.6.0-setup.exe", "BleachbitSetup.exe")
+                    ("https://www.bleachbit.org/download/file/t?file=BleachBit-4.6.0-setup.exe", "BleachbitSetup.exe"),
+                    ("https://download3.manycams.com/installer/ManyCamSetup.exe", "ManycamSetup.exe"),
+                    ("https://github.com/VSCodium/vscodium/releases/download/1.85.0.23343/VSCodiumSetup-x64-1.85.0.23343.exe", "VSCodiumSetup.exe"),
+                    ("https://c2rsetup.officeapps.live.com/c2r/downloadVS.aspx?sku=community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030", "VisualStudio2022Community.exe"),
+                    ("https://updates.safing.io/latest/windows_amd64/packages/portmaster-installer.exe", "PortmasterInstaller.exe")
                 ];
 
                 return true;
