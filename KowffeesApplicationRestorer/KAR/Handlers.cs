@@ -21,7 +21,8 @@
                     ("https://download3.manycams.com/installer/ManyCamSetup.exe", "ManycamSetup.exe"),
                     ("https://github.com/VSCodium/vscodium/releases/download/1.85.0.23343/VSCodiumSetup-x64-1.85.0.23343.exe", "VSCodiumSetup.exe"),
                     ("https://c2rsetup.officeapps.live.com/c2r/downloadVS.aspx?sku=community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030", "VisualStudio2022Community.exe"),
-                    ("https://updates.safing.io/latest/windows_amd64/packages/portmaster-installer.exe", "PortmasterInstaller.exe")
+                    ("https://updates.safing.io/latest/windows_amd64/packages/portmaster-installer.exe", "PortmasterInstaller.exe"),
+                    ("https://github.com/CodeDead/MemPlus/releases/download/1.3.2/MP_setup.exe", "MemPlusSetup.exe")
                 ];
 
                 return true;
