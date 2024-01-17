@@ -7,6 +7,7 @@
             try
             {
                 Directory.CreateDirectory("KARInstalls");
+                // Plan: Read from a file and add the lines to the AppList
                 Globals.AppList = [
                     ("https://github.com/brave/brave-browser/releases/latest/download/BraveBrowserSetup.exe", "BraveInstaller64bit.exe"),
                     ("https://laptop-updates.brave.com/latest/winx64/beta?bitness=64", "BraveBetaInstaller64bit.exe"),
@@ -23,7 +24,8 @@
                     ("https://c2rsetup.officeapps.live.com/c2r/downloadVS.aspx?sku=community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030", "VisualStudio2022Community.exe"),
                     ("https://updates.safing.io/latest/windows_amd64/packages/portmaster-installer.exe", "PortmasterInstaller.exe"),
                     ("https://github.com/CodeDead/MemPlus/releases/download/1.3.2/MP_setup.exe", "MemPlusSetup.exe"),
-                    ("https://www.7-zip.org/a/7z2301-x64.exe", "7zipSetup.exe")
+                    ("https://www.7-zip.org/a/7z2301-x64.exe", "7zipSetup.exe"),
+                    ("https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.7/BCUninstaller_5.7_setup.exe", "BCUInstaller.exe")
                 ];
 
                 return true;
