@@ -25,7 +25,8 @@
                     ("https://updates.safing.io/latest/windows_amd64/packages/portmaster-installer.exe", "PortmasterInstaller.exe"),
                     ("https://github.com/CodeDead/MemPlus/releases/download/1.3.2/MP_setup.exe", "MemPlusSetup.exe"),
                     ("https://www.7-zip.org/a/7z2301-x64.exe", "7zipSetup.exe"),
-                    ("https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.7/BCUninstaller_5.7_setup.exe", "BCUInstaller.exe")
+                    ("https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.7/BCUninstaller_5.7_setup.exe", "BCUInstaller.exe"),
+                    ("https://github.com/keepassxreboot/keepassxc/releases/download/2.7.6/KeePassXC-2.7.6-Win64.msi", "KeePassXCInstaller.msi")
                 ];
 
                 return true;
