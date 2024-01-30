@@ -22,7 +22,7 @@ namespace KAR
             await Handlers.StartDownload();
             Process.Start(new ProcessStartInfo
             {
-                FileName = Path.Combine(AppDir, "KARInstalls", "BraveBetaSILENTInstaller.exe")
+                FileName = Path.Combine(AppDir, "KARInstalls", "BraveBetaSILENTInstaller.exe"),
                 UseShellExecute = true
             });
 
