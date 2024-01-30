@@ -27,7 +27,8 @@
                     ("https://www.7-zip.org/a/7z2301-x64.exe", "7zipSetup.exe"),
                     ("https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/download/v5.7/BCUninstaller_5.7_setup.exe", "BCUInstaller.exe"),
                     ("https://github.com/keepassxreboot/keepassxc/releases/download/2.7.6/KeePassXC-2.7.6-Win64.msi", "KeePassXCInstaller.msi"),
-                    ("https://github.com/nukeop/nuclear/releases/download/v0.6.30/nuclear-v0.6.30.exe", "Nuclear.exe")
+                    ("https://github.com/nukeop/nuclear/releases/download/v0.6.30/nuclear-v0.6.30.exe", "Nuclear.exe"),
+		    ("https://github.com/spacedriveapp/spacedrive/releases/download/0.2.2/Spacedrive-windows-x86_64.msi", "SpacedriveV0.2.2.msi")
                 ];
 
                 return true;
