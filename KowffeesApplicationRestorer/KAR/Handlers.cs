@@ -32,7 +32,8 @@
                     ("https://github.com/nukeop/nuclear/releases/download/v0.6.30/nuclear-v0.6.30.exe", "Nuclear.exe"),
                     ("https://github.com/spacedriveapp/spacedrive/releases/download/0.2.2/Spacedrive-windows-x86_64.msi", "SpacedriveV0.2.2.msi"),
                     ("https://github.com/Tichau/FileConverter/releases/download/v1.2.3/FileConverter-1.2.3-x64-setup.msi", "FileConverterSetup.msi"),
-                    ("https://github.com/MCMrARM/mc-w10-version-launcher/releases/download/0.4.0/MCLauncher.zip", "MCLauncher.zip")
+                    ("https://github.com/MCMrARM/mc-w10-version-launcher/releases/download/0.4.0/MCLauncher.zip", "MCLauncher.zip"),
+                    ("https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-setup.exe", "ShareXSetupV15.0.0.exe")
                 ];
 
                 return true;
