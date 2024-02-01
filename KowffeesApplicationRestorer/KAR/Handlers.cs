@@ -10,9 +10,7 @@
                 // Plan: Read from a file and add the lines to the AppList
                 Globals.AppList = [
                     ("https://github.com/brave/brave-browser/releases/latest/download/BraveBrowserSetup.exe", "BraveInstaller64bit.exe"),
-                    ("https://github.com/brave/brave-browser/releases/download/v1.63.137/BraveBrowserBetaSetup.exe", "BraveBetaInstaller.exe"),
                     ("https://github.com/brave/brave-browser/releases/download/v1.63.137/BraveBrowserStandaloneSilentBetaSetup.exe", "BraveBetaSILENTInstaller.exe"),
-                    ("https://laptop-updates.brave.com/latest/winx64/nightly?bitness=64", "BraveNightlyInstaller64bit.exe"),
                     ("https://downloads.vivaldi.com/stable/Vivaldi.6.5.3206.57.x64.exe", "VivaldiInstaller.exe"),
                     ("https://openrgb.org/releases/release_0.9/OpenRGB_0.9_Windows_64_b5f46e3.zip", "OpenRGB.zip"),
                     ("https://vencord.dev/download/vesktop/amd64/windows", "VesktopSetup.exe"),
@@ -33,7 +31,9 @@
                     ("https://github.com/spacedriveapp/spacedrive/releases/download/0.2.2/Spacedrive-windows-x86_64.msi", "SpacedriveV0.2.2.msi"),
                     ("https://github.com/Tichau/FileConverter/releases/download/v1.2.3/FileConverter-1.2.3-x64-setup.msi", "FileConverterSetup.msi"),
                     ("https://github.com/MCMrARM/mc-w10-version-launcher/releases/download/0.4.0/MCLauncher.zip", "MCLauncher.zip"),
-                    ("https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-setup.exe", "ShareXSetupV15.0.0.exe")
+                    ("https://github.com/ShareX/ShareX/releases/download/v15.0.0/ShareX-15.0.0-setup.exe", "ShareXSetupV15.0.0.exe"),
+                    ("https://www.malwarebytes.com/api/downloads/mb-windows?filename=MBSetup.exe", "MalwareBytesSetup.exe"),
+                    ("https://github.com/SaladTechnologies/salad-applications/releases/download/1.3.6/Salad-1.3.6.exe", "SaladSetupV1.3.6.exe")
                 ];
 
                 return true;
